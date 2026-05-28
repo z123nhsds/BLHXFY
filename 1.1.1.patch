@@ -1,7 +1,12 @@
 diff --git a/1.1.1.patch b/1.1.1.patch
-index 0519ecba..e69de29b 100644
+index 9861a8fe..e69de29b 100644
 --- a/1.1.1.patch
 +++ b/1.1.1.patch
-@@ -1 +0,0 @@
-- 
-\ No newline at end of file
+@@ -1,7 +0,0 @@
+-diff --git a/1.1.1.patch b/1.1.1.patch
+-index 0519ecba..e69de29b 100644
+---- a/1.1.1.patch
+-+++ b/1.1.1.patch
+-@@ -1 +0,0 @@
+-- 
+-\ No newline at end of file
